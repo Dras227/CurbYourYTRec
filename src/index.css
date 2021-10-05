@@ -30,6 +30,8 @@ code {
   padding:5px;
   width:50%;
   margin:auto;
+  margin-bottom:10px;
+  list-style:none;
   border:1px solid black;
   border-radius: 20px;
 }
