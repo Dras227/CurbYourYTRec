@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.genre {
+  padding:5px;
+  background-color: #E5E7EB;
+  border:2px solid black;
+  margin:20px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.show-genre {
+  text-align: center;
+}
+
+.list-of-videos {
+  background-color: white;
+  padding:5px;
+  width:50%;
+  margin:auto;
+  border:1px solid black;
+  border-radius: 20px;
+}
